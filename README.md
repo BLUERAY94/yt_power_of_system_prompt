@@ -27,7 +27,7 @@ Step 2) Create Virtual Environment in Python
 
 Step 3) Go to Groq website and generate ACCESS_KEY to use the LLM models
 
-Step 4) Open .env file and update your KEY into 'Grok_key' variable
+Step 4) Create .env file and update your GROQ KEY into 'Grok_key' variable
 
 Step 5) In Human_msg variable, you can feed various 'user_resume' as input. So edit this 'user_resume' string as per your input need.
 
